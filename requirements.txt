@@ -1,5 +1,5 @@
 streamlit
-supbase
+supabase
 pandas
 numpy
 matplotlib
